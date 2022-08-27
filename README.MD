@@ -52,6 +52,12 @@ Press the below button to Fast deploy on Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/girume1/File-To-Link)
 
+# Deploy on Railway
+
+Press the below button to Fast deploy on Railway
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/tr9otf)
+
 
 🚀Features<p>
 💥Superfast⚡️ download and stream links.<br>
